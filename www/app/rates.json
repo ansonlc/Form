@@ -1,0 +1,42 @@
+[
+        {
+            "item": "Objective",
+            "rating": "The objectives for the training were clearly explained."
+        },
+        {
+            "item": "Scope",
+            "rating": "The amount of information covered was:"
+        },
+        {
+            "item": "Content",
+            "rating": "The information (slides and presentation) was presented in a logical and understandable manner."
+        },
+        {
+            "item": "Length",
+            "rating": "The length of the training was:"
+        },
+        {
+            "item": "Pace",
+            "rating": "The pace of the training was:"
+        },
+        {
+            "item": "Instructors",
+            "rating": "The instructors knew the material well and prepared a lot:"
+        },
+        {
+            "item": "Interaction",
+            "rating": "The instructor used an appropriate way to hold a discussion and other interactions."
+        },
+        {
+            "item": "Readiness",
+            "rating": "After the training, I feel comfort to apply it in the daily work."
+        },
+        {
+            "item": "Promotion",
+            "rating": "The training coordinate sent out the invitation with general idea and informed the attendees before training starts."
+        },
+        {
+            "item": "Facilities",
+            "rating": "The training environment (such as microphone, projector, air conditioner etc.)  impacted the training value:"
+        }
+        ];
